@@ -1,62 +1,62 @@
 body {
-    background: url("https://cdn.wallpapersafari.com/0/81/5I6E3h.jpg");
-    font-family: "Fjalla One", sans-serif;
-    margin: 32px;
-  }
-  
-  p {
-    max-width: 800px;
-  }
-  
-  .highlight {
-    background-color: rgba(255, 235, 205, .7);
-  }
-  
-  .header {
-    text-align: center;
-    padding-bottom: 2px;
-    border-color: black;
-    color: red;
-    margin-bottom: 32px;
-    font-family: Mansalva;
-    font-size: 45px;
-    border: 2px solid;
-    padding: 10px;
-    margin: 42px;
-    background: url("http://4.bp.blogspot.com/-WMq9Fh0J2Uw/Tmy7zWpN0dI/AAAAAAAAAAM/BpN3rL9kmlo/s1600/coral1.jpg");
-    background-size: cover;
-    background-position: center;
-  }
-  
-  .image {
-    text-align: center;
-  }
-  
-  .center {
-    text-align: center;
-    flex-grow: 1;
-  }
-  
-  .box {
-    color: FireBrick;
-    border: 2px solid;
-    padding: 20px 10px;
-    margin: 25px 250px;
-     background-color: DarkCyan;
-    background-size: cover;
-    background-position: center;
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    align-items: center;
-  }
-  
-  .border {
-    border: 2px solid;
-    color: LightCoral;
-  }
-  
-  a {
-    color: LightCoral;
-    text-decoration: none;
-  }
+  background: url("https://cdn.wallpapersafari.com/0/81/5I6E3h.jpg");
+  font-family: "Fjalla One", sans-serif;
+  margin: 32px;
+}
+
+p {
+  max-width: 800px;
+}
+
+.highlight {
+  background-color: rgba(255, 235, 205, .7);
+}
+
+.header {
+  text-align: center;
+  padding-bottom: 2px;
+  border-color: black;
+  color: red;
+  margin-bottom: 32px;
+  font-family: Mansalva;
+  font-size: 45px;
+  border: 2px solid;
+  padding: 10px;
+  margin: 42px;
+  background: url("http://4.bp.blogspot.com/-WMq9Fh0J2Uw/Tmy7zWpN0dI/AAAAAAAAAAM/BpN3rL9kmlo/s1600/coral1.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.image {
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+  flex-grow: 1;
+}
+
+.box {
+  color: FireBrick;
+  border: 2px solid;
+  padding: 20px 10px;
+  margin: 25px 250px;
+   background-color: DarkCyan;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.border {
+  border: 2px solid;
+  color: LightCoral;
+}
+
+a {
+  color: LightCoral;
+  text-decoration: none;
+}
