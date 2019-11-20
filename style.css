@@ -39,13 +39,18 @@ p {
   list-style: none;
 }
 
+.dropdown-target {
+  border: 1px solid black;
+}
+
 .dropdown-content {
   flex-direction: column;
   opacity: 0;
+  transition: all .3s ease-out;
 }
 
 .dropdown-target:hover .dropdown-content {
-  
+  opacity: 1;
 }
 
 .image {
