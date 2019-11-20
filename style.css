@@ -22,7 +22,7 @@ p {
   font-family: Mansalva;
   font-size: 60px;
   border: 2px solid;
-  padding: 10px;
+  padding: 0px;
   margin: 10px;
   background: url("http://4.bp.blogspot.com/-WMq9Fh0J2Uw/Tmy7zWpN0dI/AAAAAAAAAAM/BpN3rL9kmlo/s1600/coral1.jpg");
   background-size: cover;
@@ -43,7 +43,7 @@ nav ul {
 }
 
 .dropdown-target {
-  position: relative;
+  position: relative; 
   height: 20px;
   border: 1px solid black;
 }
