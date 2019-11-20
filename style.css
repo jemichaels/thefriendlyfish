@@ -29,6 +29,16 @@ p {
   background-position: center;
 }
 
+.nav {
+  border-bottom: 1px solid black;
+}
+
+.nav ul {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
+
 .image {
   text-align: center;
 }
