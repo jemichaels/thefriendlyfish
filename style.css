@@ -23,14 +23,13 @@ p {
   font-size: 60px;
   border: 2px solid;
   padding: 0px;
-  margin: 10px;
+  margin: 0px;
   background: url("http://4.bp.blogspot.com/-WMq9Fh0J2Uw/Tmy7zWpN0dI/AAAAAAAAAAM/BpN3rL9kmlo/s1600/coral1.jpg");
   background-size: cover;
   background-position: center;
 }
 
 nav {
-  border-bottom: 1px solid black;
   font-size: 15px; 
   padding: 8px;
   margin-bottom: 16px;
@@ -76,7 +75,7 @@ nav ul {
   border: 2px solid;
   padding: 20px 10px;
   margin: 25px 250px;
-   background-color: DarkCyan;
+  background-color: DarkCyan;
   background-size: cover;
   background-position: center;
   display: flex;
