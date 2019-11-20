@@ -39,6 +39,15 @@ p {
   list-style: none;
 }
 
+.dropdown-content {
+  flex-direction: column;
+  opacity: 0;
+}
+
+.dropdown-target:hover .dropdown-content {
+  
+}
+
 .image {
   text-align: center;
 }
