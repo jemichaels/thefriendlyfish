@@ -9,14 +9,14 @@ p {
 }
 
 .stroked {
-  color: black;
+  color: rgb(255, 255, 255);
   text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 
 .header {
   text-align: center;
   padding-bottom: 2px;
-  border-color: black;
+  border-color: rgba(138, 129, 129, 0.767);
   color: rgb(212, 101, 26);
   margin-bottom: 32px;
   font-family: Mansalva;
