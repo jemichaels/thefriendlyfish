@@ -45,7 +45,6 @@ nav ul {
 .dropdown-target {
   position: relative; 
   height: 20px;
-  border: 1px solid black;
 }
 
 .dropdown-target:hover {
