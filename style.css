@@ -16,9 +16,12 @@ p {
 .header {
   text-align: center;
   padding-bottom: 2px;
+  border-color: aquamarine(138, 129, 129, 0.767);
+  color: aquamarine(212, 101, 26);
   margin-bottom: 32px;
   font-family: Mansalva;
   font-size: 60px;
+  border: 1px solid;
   padding: 0px;
   margin: 0px;
   background: url("http://4.bp.blogspot.com/-WMq9Fh0J2Uw/Tmy7zWpN0dI/AAAAAAAAAAM/BpN3rL9kmlo/s1600/coral1.jpg");
